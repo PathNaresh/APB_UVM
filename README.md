@@ -7,7 +7,7 @@ Design file is in the rtl sub directory.
 Rest all files are in the tb sub directory.
 
 Inside the sim sub directory create the makefile - which contains the commands to execute. For instance to compilation use 'make compile' & for simulation use 'make simulate' etc.
-can check for those other commands in the makefile. Note - to run these commands go to the sim sub directory & should run every inside it.
+can check for those other commands in the makefile. Note - to run these commands go to the sim sub directory & should run everything inside it.
 
 I used tool questasim/2022.4 version [module load mentor/questasim/2022.4]
 
