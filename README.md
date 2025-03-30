@@ -13,5 +13,5 @@ I used tool questasim/2022.4 version [module load mentor/questasim/2022.4]
 
 after simulation inside the sim sub directory - transacript, vsim.wlf, dump.vcd & work will be generated.
 
-check the google drive for tool uasge & for help 
+refer the google drive for tool uasge & help 
 
